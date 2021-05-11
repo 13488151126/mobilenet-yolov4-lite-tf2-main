@@ -1,0 +1,111 @@
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313777.jpg 455,181,486,239,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313827.jpg 398,158,446,189,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313836.jpg 428,154,486,185,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313847.jpg 387,145,410,162,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313867.jpg 387,145,419,167,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313870.jpg 401,149,450,180,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618313991.jpg 630,207,653,288,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618315885.jpg 407,149,446,176,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618315903.jpg 441,149,455,185,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618315919.jpg 594,194,613,248,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360008.jpg 496,154,513,194,1 441,149,451,172,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360014.jpg 615,191,637,262,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360042.jpg 509,162,527,199,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360047.jpg 472,150,485,182,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360055.jpg 416,154,455,181,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360094.jpg 441,172,487,216,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360095.jpg 469,189,531,252,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360096.jpg 518,226,612,329,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360102.jpg 549,207,704,386,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360103.jpg 505,194,674,347,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360131.jpg 469,167,482,203,1 419,149,464,180,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360149.jpg 437,171,478,216,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360152.jpg 500,212,590,306,0 396,158,407,181,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360174.jpg 393,147,420,174,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360185.jpg 441,177,491,222,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360194.jpg 446,174,468,227,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360197.jpg 409,159,439,190,0 513,227,536,303,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360198.jpg 612,294,644,388,1 419,168,473,213,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360209.jpg 604,222,626,303,1 391,143,413,169,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360217.jpg 522,188,536,238,1 423,165,451,200,0 428,150,473,181,0 392,147,414,168,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360224.jpg 612,285,704,474,0 442,174,491,222,0 398,150,410,181,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360230.jpg 462,163,475,195,1 416,163,434,199,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360290.jpg 513,213,599,303,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360319.jpg 437,177,496,235,0 413,158,441,191,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360540.jpg 459,181,518,244,0 419,154,468,183,0 396,142,416,163,0 424,172,442,213,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360545.jpg 455,190,473,244,1 442,181,459,227,1 475,155,489,186,1 394,140,418,166,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618360554.jpg 462,182,524,248,0 392,142,416,165,0 556,263,588,335,1 608,315,644,459,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618382841.jpg 398,150,442,177,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618382842.jpg 392,147,416,168,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383016.jpg 433,171,478,212,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383020.jpg 509,222,608,330,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383550.jpg 587,194,601,248,1 441,144,450,171,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383552.jpg 619,208,633,266,1 453,141,462,176,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383639.jpg 412,146,418,172,1 480,199,557,271,0 417,148,423,173,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383640.jpg 436,175,482,215,0 417,145,425,176,1 422,139,431,175,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383654.jpg 450,163,459,198,1 459,158,472,201,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383661.jpg 478,175,492,225,1 491,171,503,228,1 651,211,670,279,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618383729.jpg 399,150,422,179,0 501,156,508,190,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384200.jpg 578,184,592,241,1 447,158,466,194,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384416.jpg 594,192,605,249,1 615,207,627,274,1 647,209,658,272,1 621,204,631,261,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384420.jpg 666,222,678,288,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384505.jpg 427,162,463,199,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384507.jpg 460,179,512,229,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384508.jpg 534,226,641,331,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384576.jpg 516,226,628,327,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384577.jpg 448,178,504,233,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384827.jpg 609,203,620,245,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384859.jpg 577,275,704,410,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618384865.jpg 472,196,540,256,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385037.jpg 424,154,470,179,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385117.jpg 605,306,632,456,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385128.jpg 503,225,524,296,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385135.jpg 425,158,450,191,0 411,166,421,197,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385280.jpg 507,197,520,247,1 634,210,649,267,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618385285.jpg 560,182,574,228,1 505,160,512,194,1 460,166,468,193,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454647.jpg 426,150,466,181,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454686.jpg 549,254,678,373,0 669,343,704,517,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454690.jpg 629,248,654,314,1 561,248,588,356,1 420,165,456,198,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454693.jpg 522,218,540,314,1 498,189,513,233,1 403,154,430,181,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454893.jpg 561,251,686,379,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618454988.jpg 542,258,684,376,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456420.jpg 479,185,519,244,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456445.jpg 415,152,459,179,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456460.jpg 413,152,453,177,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456556.jpg 551,260,683,378,0 394,146,402,166,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456569.jpg 454,168,465,201,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456643.jpg 666,218,680,279,1 417,147,425,172,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456647.jpg 596,195,610,251,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456685.jpg 427,175,454,219,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456688.jpg 498,227,550,304,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456764.jpg 395,145,414,166,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456768.jpg 458,173,512,226,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456929.jpg 445,168,497,225,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456930.jpg 473,183,550,268,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456956.jpg 455,175,516,234,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618456980.jpg 412,155,439,183,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457028.jpg 459,189,519,241,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457195.jpg 444,157,453,183,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457199.jpg 421,157,430,189,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457221.jpg 425,177,437,219,1 411,157,438,183,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457226.jpg 400,150,421,170,0 425,179,438,217,1 639,376,689,533,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457230.jpg 539,260,564,334,1 426,181,440,221,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618457239.jpg 468,194,483,251,1 426,181,438,220,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461470.jpg 496,198,565,273,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461474.jpg 428,178,475,228,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461481.jpg 548,213,588,275,0 448,188,509,250,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461496.jpg 481,155,488,184,1 476,155,482,185,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461503.jpg 509,190,525,244,1 504,162,511,194,1 436,144,442,163,1 387,147,402,163,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461507.jpg 647,215,660,277,1 513,167,522,201,1 522,165,531,205,1 444,145,450,166,1 423,148,430,170,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461556.jpg 411,161,446,194,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461602.jpg 510,189,524,232,1 588,191,604,247,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461643.jpg 677,232,692,311,1 691,234,703,310,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461677.jpg 631,210,646,278,1 580,188,590,239,1 562,177,571,223,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461725.jpg 581,209,594,239,1 566,188,577,228,1 437,151,446,182,1 425,159,431,186,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461762.jpg 577,188,589,235,1 435,157,467,212,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461769.jpg 523,169,533,207,1 534,164,541,185,1 436,158,468,211,0 398,154,425,176,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461774.jpg 507,164,515,199,1 514,159,522,198,1 425,160,475,215,0 413,158,444,187,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461940.jpg 463,197,520,263,0 499,161,507,197,1 472,158,483,193,1
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461954.jpg 560,250,583,339,1 521,222,613,301,0 497,162,507,198,1 475,160,481,193,1 385,150,408,166,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618461955.jpg 527,232,551,312,1 498,162,507,196,1 475,161,481,196,1 387,150,408,169,0 476,195,542,252,0
+C:\Users\sunhaotian\Desktop\mobilenet-yolov4-lite-tf2-main/img/JPGImages/1618462488.jpg 479,157,486,200,1 444,154,453,183,1
